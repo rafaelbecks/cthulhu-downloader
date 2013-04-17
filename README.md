@@ -16,3 +16,5 @@ sudo apt-get install youtube-dl
 Distribuciones basadas en Red Hat (Fedora por ejemplo)
 
 yum install youtube-dl
+
+http://rafaelbecks.github.io/cthulhu-downloader/
